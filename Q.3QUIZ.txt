@@ -1,0 +1,19 @@
+#write a program to create "BCA.TEXT" file which contain information about BCA course
+#count and print the total number of lines starting with 'A','B','c' in "intro.txt
+
+"""create
+f1="c:\\sqlite3\\csv\\BCA.TXT"
+f2="c:\\sqlite3\\csv\\INTRODUCTION.TXT"
+string="BCA STANDS FOR BACHLOR Of  COMPUTER APPLICATION"
+with open(f1,"w")as textfile:
+    data=textfile.write(string)
+    l=list(string)
+    print(1)
+
+with open(f2,"r")as txtfile:
+    d=txtfile.read()
+    print(data)
+
+    
+
+
